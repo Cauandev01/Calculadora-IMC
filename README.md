@@ -29,6 +29,9 @@ Este projeto é ideal para quem está começando a aprender JavaScript e quer pr
 
 Confira uma prévia da aplicação:
 
+![Image](https://github.com/user-attachments/assets/32f37d08-93ff-429d-8432-30448a89bc53)<br>
+
+![Image](https://github.com/user-attachments/assets/6e3fc5b5-aa58-492e-83cf-76330d2329e5)
 
   
 
