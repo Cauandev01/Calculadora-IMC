@@ -39,7 +39,7 @@ Confira uma prévia da aplicação:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Cauandev01/Calculadora-imc.git<br>
+   git clone https://github.com/Cauandev01/Calculadora-imc.git
 
 2.  Acesse o diretório do projeto:
 
