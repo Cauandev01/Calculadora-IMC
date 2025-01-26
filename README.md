@@ -46,12 +46,14 @@ Confira uma prévia da aplicação:
     cd calculadora-imc<Br>
 
 3.  Abra o arquivo index.html em seu navegador.<br><br>
+---
 
 📝 Funcionalidades<br>
 • Interface amigável e responsiva.<Br>
 • Mensagens claras e intuitivas sobre o resultado.<br>
 • Validação básica para garantir que os valores inseridos sejam válidos.<Br><br>
 
+---
 
 🌟 Aprendizados
 Este projeto me ajudou a praticar:
