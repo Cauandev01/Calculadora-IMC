@@ -56,8 +56,8 @@ Confira uma prévia da aplicação:
 🌟 Aprendizados
 Este projeto me ajudou a praticar:
 
-• Manipulação de elementos do DOM com JavaScript.
-• Aplicação de estilos dinâmicos com CSS.
+• Manipulação de elementos do DOM com JavaScript.<br>
+• Aplicação de estilos dinâmicos com CSS.<br>
 • Validação de formulários simples.<Br><Br>
 
 
